@@ -1,0 +1,4 @@
+/.idea
+/flaskappenv
+/last_blocks/*.json
+nightoperation.py
